@@ -3,7 +3,9 @@ html {
 }
 
 .masthead {
-
+  background-image: url("../images/leaf-bg.svg");
+  background-size: 64px;
+  background-color: #588477;
 }
 
 .logo {
@@ -26,12 +28,12 @@ html {
   background-image: url("../images/banner.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: left center;
+  background-position: left 86%;
 }
 
 .banner-content {
   padding-top: 300px;
-
+  color: #fff;
 }
 
 @media only screen and (min-width: 60em) {
