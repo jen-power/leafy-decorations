@@ -35,7 +35,7 @@ html {
   background-image: url("../images/banner.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: left 86%;
+  background-position: left bottom;
 }
 
 .banner-content {
